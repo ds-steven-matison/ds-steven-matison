@@ -2,7 +2,8 @@
 ### Hi This is Steven Matison, Presales Data Architect @DataStax
 
 - 🔭 I’m currently working on Astra, NoSqlBench, & Stargate
-- 🌱 I’m currently learning kubernetes, dse spark, dse graph 
-- 💬 Ask me about Astra, Cassandra, Stargate, Open Source
+- 🌱 I’m currently learning Kubernetes, DSE Spark, DSE Graph 
+- 💬 Ask me about Astra, Cassandra, Stargate, Open Source, NiFi, Apache Software Foundation, Apis
+- 👯 I’m looking to collaborate on NoSqlBench, NiFi, OpenSource 
 - 📫 How to reach me: [@DSMatison](https://twitter.com/DSMatison) on twitter
-- ⚡ **Fun fact:** *everything has an end except a sausage that has two ends*
+- ⚡ Check out my [GitHub Pages Datastax Journal](https://ds-steven-matison.github.io/)
